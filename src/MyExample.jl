@@ -1,5 +1,8 @@
 module MyExample
 
-# Write your package code here.
+include("extra_file.jl")
+
+export sum_values
+
 
 end
