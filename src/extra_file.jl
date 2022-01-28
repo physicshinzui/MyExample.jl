@@ -1,2 +1,2 @@
 
-sum_values(x, y) = 2x + 3y
+sum_values(x, y) = x + y
